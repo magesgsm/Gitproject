@@ -21,5 +21,16 @@ public class GitSampleClass {
 	private void sample6() {
 		System.out.println("sample6");
 	}
+	private void sample7() {
+		System.out.println("sample7");
+	}
+	private void sample8() {
+		System.out.println("sample8");
+
+	}
+	private void sample9() {
+		System.out.println("sample9");
+
+	}
 
 }

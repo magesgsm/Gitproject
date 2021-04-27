@@ -33,4 +33,19 @@ public class GitSampleClass {
 
 	}
 
+	private void sample10() {
+		System.out.println("sample9");
+
+	}
+
+	private void sample11() {
+		System.out.println("sample9");
+
+	}
+
+	private void sample12() {
+		System.out.println("sample9");
+
+	}
+
 }

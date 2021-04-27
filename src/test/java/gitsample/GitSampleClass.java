@@ -77,11 +77,16 @@ public class GitSampleClass {
 	private void sample05() {
 		System.out.println("radhagit");
 	}
-	private void sample07() {
-		System.out.println("sdfghj");
-	}	
-	private void sample08() {
-		System.out.println("sdfghj");
+
+	private void sample06() {
+System.out.println("magesgit");
+	}
+private void sample07() {
+	System.out.println("sdfghj");
+}	
+private void sample08() {
+	System.out.println("sdfghj");
+
 	}
 
 }

@@ -22,8 +22,37 @@ public class GitSampleClass {
 	private void sample6() {
 		System.out.println("sample6");
 	}
+
+
+	private void sample7() {
+		System.out.println("sample7");
+	}
+	private void sample8() {
+		System.out.println("sample8");
+
+	}
+	private void sample9() {
+		System.out.println("sample9");
+
+	}
+
+	private void sample10() {
+		System.out.println("sample9");
+
+	}
+
+	private void sample11() {
+		System.out.println("sample9");
+
+	}
+
+	private void sample12() {
+		System.out.println("sample9");
+
+	}
+
 	private void sample01() {
-		System.out.println("srini");
+	System.out.println("srini");
 
 	}
 	private void sample02() {

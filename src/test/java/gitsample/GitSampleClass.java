@@ -1,6 +1,7 @@
 package gitsample;
 
 public class GitSampleClass {
+	
 	private void sample1() {
 		System.out.println("sample1");
 
@@ -21,5 +22,17 @@ public class GitSampleClass {
 	private void sample6() {
 		System.out.println("sample6");
 	}
+	private void sample01() {
+		System.out.println("srini");
 
+	}
+	private void sample02() {
+		System.out.println("srinivasan");
+	}
+	private void sample03() {
+		System.out.println("srinivasan2592");
+	}
+
+	
+	
 }

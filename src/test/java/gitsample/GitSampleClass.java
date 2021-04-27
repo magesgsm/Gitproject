@@ -77,5 +77,8 @@ public class GitSampleClass {
 	private void sample05() {
 		System.out.println("radhagit");
 	}
+	private void sample06() {
+System.out.println("magesgit");
+	}
 
 }

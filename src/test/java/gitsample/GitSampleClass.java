@@ -92,4 +92,17 @@ private void sample20() {
 	System.out.println("sdfghj");
 
 	}
+
+private void sample09() {
+System.out.println("magesgijunhythhyht");
+	}
+private void sample14() {
+	System.out.println("manauo");
+}	
+private void sample15() {
+	System.out.println("gggg");
+
+	}
+
+
 }

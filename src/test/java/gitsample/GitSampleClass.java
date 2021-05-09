@@ -88,6 +88,11 @@ private void sample08() {
 	System.out.println("sdfghj");
 
 	}
+private void sample20() {
+	System.out.println("sdfghj");
+
+	}
+
 private void sample09() {
 System.out.println("magesgijunhythhyht");
 	}
